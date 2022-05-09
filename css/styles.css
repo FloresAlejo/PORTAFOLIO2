@@ -328,7 +328,10 @@ body.dark{
 }
 
 .buttoncv{
-    padding: 0.2rem;
+    margin: auto;
+    display: flex;
+    padding: 0.4rem;
+    margin-bottom: 1rem;
 }
 
 .ghost{
