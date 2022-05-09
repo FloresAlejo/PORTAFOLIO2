@@ -327,6 +327,10 @@ body.dark{
     transform: scale(1.1);
 }
 
+.buttoncv{
+    padding: 0.2rem;
+}
+
 .ghost{
     background-color: transparent;
     color: var(--primary-color);
