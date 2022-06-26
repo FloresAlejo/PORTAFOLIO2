@@ -1,7 +1,7 @@
 /*----------VARIABLES---------- */
 :root{
     --primary-color: #3498DB;
-    --text-color: #17202A;
+    --text-color: #0a0a0f;
     --bg-color: #FBFCFC;
     --bg-card-color: #e0e4e6;
     --border-radius: 0.4em;
@@ -34,8 +34,8 @@ body{
 
 body.dark{
     --text-color: #FBFCFC;
-    --bg-color: #17202A;
-    --bg-card-color: #212F3D;
+    --bg-color: #0a0a0f;
+    --bg-card-color: #16161d;
 }
 
 /*----------HEADER---------- */
